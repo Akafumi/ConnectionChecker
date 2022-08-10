@@ -31,6 +31,10 @@ echo IPアドレス :%ipaddr%
 echo 出力ファイル名 :%filename%
 echo --------------------
 
+if not exist "log" (
+  mkdir log
+)
+
 set yn=other
 :output
 set /P yn="ファイルへの出力を行いますか？ (y/n) : "
