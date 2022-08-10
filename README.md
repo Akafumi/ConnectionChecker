@@ -1,6 +1,4 @@
-# 名前
-
-Connection Checker
+# Connection Checker
 
 ## 必要要件
 
@@ -14,7 +12,8 @@ Connection Checker
 
 1. 本ツールをダウンロードする．
 2. cmd を起動し，本ツールのあるディレクトリに移動する．
-3. $ConnectionChecker.bat
+3. 次のコマンドを実行し，IPアドレスとファイルの出力の可否を入力する．
+$ConnectionChecker.bat
 
 
 ## 製作者
