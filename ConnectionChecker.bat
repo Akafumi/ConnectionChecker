@@ -23,7 +23,6 @@ set HH=%HHMMSS:~0,2%
 set MM=%HHMMSS:~3,2%
 set SS=%HHMMSS:~6,2%
 
-@REM set filedate=%date:~0,4%%date:~5,2%%date:~8,2%%time:~0,2%%time:~3,2%%time:~6,2%
 set filedate=%YYYY%%MMDD%_%HH%%MM%%SS%
 set filename=%ipaddr%_%filedate%.log
 
