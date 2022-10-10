@@ -37,6 +37,6 @@ ConnectionChecker.bat
 ## 製作者
 
 * 製作者: Akafumi
-* 所属: 電気通信大学
+* 所属: 電気通信大学 情報基盤センター 技術支援員 学生
 * E-mail: 
 * Twitter: @Akafumi0513_2
